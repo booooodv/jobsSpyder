@@ -6,7 +6,7 @@
 # 进程  
 ## jsoup简单实现爬取  
 准备阶段：  
-[![O_HHHTYA_GFD4_P_737_Z_A.png](https://s26.postimg.cc/ugwn9yo89/O_HHHTYA_GFD4_P_737_Z_A.png)](https://postimg.cc/image/uto1g56hx/)  
+[![1_URU029_N6_RY_Y2_I_3.png](https://s26.postimg.cc/blkvcwrix/1_URU029_N6_RY_Y2_I_3.png)](https://postimg.cc/image/ocz1jf1at/)  
 
 - 爬取的只是互联网类别的招聘信息。
 - 两个都无访问验证码，所以不用动态IP爬取。
